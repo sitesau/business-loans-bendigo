@@ -1,26 +1,6 @@
-# Finance Broker Bendigo — Business Loans Bendigo Guide
+Finance Broker Bendigo
+business loans bendigo - Business Loans Bendigo: compare equipment, vehicle and working capital options without the noise. Compare options, costs and what to expect before you commit.
 
-Business name: Finance Broker Bendigo
-Site URL: https://sitesau.github.io/business-loans-bendigo/
-Canonical: https://sitesau.github.io/business-loans-bendigo/
-Description: Independent editorial guide to business loans in Bendigo, Victoria — loan types, eligibility, rates and broker process.
+Location: Australia
+Site: https://sitesau.github.io/business-loans-bendigo/
 
-Services covered:
-- Unsecured business loans ($10,000 to $250,000)
-- Secured term loans ($50,000 to $5 million)
-- Lines of credit ($20,000 to $500,000+)
-- Invoice finance and debtor finance
-- Working capital solutions
-- Business loan pre-approval (within 24 hours)
-
-Location: Bendigo, VIC 3550 (Greater Bendigo region, including Castlemaine, Maryborough, Heathcote, Kyneton)
-Lender panel: 30+ lenders
-Broker fee: $0 to borrower
-
-Money site: https://www.bendigofinancebroker.com.au
-Last updated: June 2026
-
-Regulatory notes:
-- General information only; not personal financial advice
-- Refer to ASIC Moneysmart (moneysmart.gov.au) for consumer guidance
-- Broker association: MFAA (mfaa.com.au)
